@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Users/Jehison/Downloads/Procesador 3/tb_conexion_procesador_isim_beh.exe" -prj "D:/Users/Jehison/Downloads/Procesador 3/tb_conexion_procesador_beh.prj" "work.tb_conexion_procesador" 

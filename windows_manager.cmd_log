@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesador -o "C:/Users/utp/Desktop/Procesador 3/windows_manager.vhi" -module windows_manager -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../windows_manager.vhd 
